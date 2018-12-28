@@ -10,7 +10,8 @@
     },
     "description": "NativeScript Application",
     "scripts": {
-        "start": "tns run ios --bundle --env.aot"
+        "start": "tns run ios --bundle --env.aot",
+        "clean.ios": "tns platform clean ios"
     },
     "license": "SEE LICENSE IN <your-license-filename>",
     "repository": "<fill-your-repository-here>",
