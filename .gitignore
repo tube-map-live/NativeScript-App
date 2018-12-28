@@ -1,0 +1,29 @@
+
+# Created by https://www.gitignore.io/api/nativescript
+# Edit at https://www.gitignore.io/?templates=nativescript
+
+### NativeScript ###
+/platforms
+/hooks
+/node_modules
+/lib
+/debugger
+/dist
+
+src/**/*.map
+src/**/*.js
+src/**/*.css
+
+.DS_Store
+**/*.log
+tags
+
+ers.txt
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.gitignore.io/api/nativescript
